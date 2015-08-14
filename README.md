@@ -1,7 +1,8 @@
-# electron-react-boilerplate
+# XBrightness
 
-[![NPM version][npm-image]][npm-url]
-[![Dependency Status][david_img]][david_site]
+Adjust the brightness of your monitors on linux.
+
+This a simple interface on top of xrandr, made with electron-react-boilerplate
 
 ![](./erb-logo.png)
 
